@@ -1,0 +1,45 @@
+
+
+img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    display: none;
+}
+.btn-info{
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
+.cont{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.car{
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    width: fit-content;
+    height: 200px;
+    border: 2px solid black;
+    margin-top: 50px;
+    border-radius: 5px;
+    overflow-y: auto;
+    
+
+}
+.btn-secondary{
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+    
+}
+.card-body{
+    background-color: beige;
+}
